@@ -144,7 +144,3 @@ python prediksi_late_payment.py
 - Gunakan **cross-validation** dan **hyperparameter tuning**.
 - Tambah fitur: umur piutang, musim penagihan, frekuensi transaksi klien.
 - Terapkan penanganan ketidakseimbangan kelas (misalnya SMOTE) bila perlu.
-
----
-
-👤 **Author:** <Nama Anda> | 🔗 [LinkedIn](#) | 📧 email@contoh.com
